@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/org/jasig/cas/authentication/WebUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/js/jquery-1.11.2.js" charset="UTF-8" />
+  </component>
+</project>

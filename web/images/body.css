@@ -1,0 +1,16 @@
+.bodytxt {height:25px;font-size: 12px;text-decoration: none;background-color:#DBE5D1;padding-left: 6px;}
+.bodynotxt {height:25px;font-size: 12px;text-decoration: none;}
+.menutxt {font-size: 14px;text-decoration: none;font-weight: normal;padding-right: 0px;padding-left: 0px;padding-top: 8px;padding-bottom: 0px;}
+.menu2txt{
+	height:25;
+	font-size:12px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.listtxt {height:25px;font-size: 12px;padding-left: 6px;background-color:#DBE5D1;}
+.listmenutxt {height:25px;font-size: 12px;padding-left: 6px;background-color:#BED1AC;}
+.listnotxt {height:25px;font-size: 12px;background-color:#DBE5D1;}
+a:link {color:#6D8258;font-weight: bold;text-decoration: none;}
+a:hover {color: #FF0000;font-weight: bold;text-decoration: none;}
+a:active {color:#FF7800;text-decoration: none;font-weight: bold;}
+a:visited {color:#435B2C;font-weight: bold;text-decoration: none;}

@@ -1,0 +1,51 @@
+.font_12 {
+	font-size: 12px;
+	color: #000000;
+}
+.pro_bg_title
+{
+	filter : progid:DXImageTransform.Microsoft.gradient(gradienttype=1,startColorstr=#FF9EB1BA,endColorstr=#FFffffff);
+	/*??????Mozilla 1.0*/
+	background-color:#9EB1BA;
+	color:#FFFFFF;
+}.bian {
+	border: 1px solid #666666;
+	font-size: 12px;
+	color: #000000;
+}
+.kuang {
+	border: 1px dashed #CCCCCC;
+	font-size: 12px;
+}
+a:link
+{
+	color:#000000;text-decoration:none;
+}
+a.white:link
+{
+	color:#FFFFFF;text-decoration:none;
+}
+a.gray:link
+{
+	color:#A4A4A4;text-decoration:none;
+}
+a.gray:visited
+{
+	color:#A4A4A4;text-decoration:none;
+}
+a:hover
+{
+	color:#FF0000;text-decoration:none;
+}
+a:visited
+{
+	color:#000000;text-decoration:none;
+}
+a.white:visited
+{
+	color:#FFFFFF;text-decoration:none;
+}
+.font_red {
+	font-size: 12px;
+	color: #FF0000;
+}

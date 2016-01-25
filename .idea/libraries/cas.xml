@@ -1,0 +1,65 @@
+<component name="libraryTable">
+  <library name="cas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/aspectjrt-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/aspectjweaver-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/cas-server-core-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/cas-server-support-generic-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/cas-server-webapp-support-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/commons-codec-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/commons-jexl-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/hibernate-commons-annotations-4.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/hibernate-core-4.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/hibernate-jpa-2.0-api-1.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/hibernate-validator-4.2.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/inspektr-audit-1.0.7.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/inspektr-common-1.0.7.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/inspektr-error-1.0.7.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/inspektr-support-spring-1.0.7.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/javassist-3.15.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/jaxb-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/jaxb-impl-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/jboss-logging-3.1.0.CR2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/jboss-transaction-api_1.1_spec-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/jcl-over-slf4j-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/joda-time-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/jstl-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/perf4j-0.9.16-log4jonly.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/person-directory-api-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/person-directory-impl-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/quartz-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/slf4j-log4j12-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-aop-3.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-beans-3.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-binding-2.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-context-3.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-context-support-3.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-core-3.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-expression-3.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-jdbc-3.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-js-2.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-orm-3.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-security-config-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-security-core-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-security-web-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-tx-3.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-web-3.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-webflow-2.3.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/spring-webmvc-3.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/standard-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/stax-api-1.0-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cas/validation-api-1.0.0.GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
